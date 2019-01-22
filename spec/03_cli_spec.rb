@@ -74,4 +74,4 @@ describe './bin/move executing a CLI Application' do
 
     expect(output).to include(" X |   |   ")
   end
-end
+end 
